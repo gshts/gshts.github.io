@@ -1,6 +1,6 @@
 ---
-title: Spring 2023
-tags: past-talks, 2023, spring
+title: Spring 2023 Talks
+tags: past, talks, 2023, spring
 ---
 
 <p></p>
