@@ -1,0 +1,76 @@
+---
+title: Spring 2021 Talks
+tags: past, talks, 2021, spring 
+---
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Day</th>
+    <th class="tg-0pky">Speaker</th>
+    <th class="tg-0pky">Title</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">02/01</td>
+    <td class="tg-0pky">Heyi</td>
+    <td class="tg-0pky">Thom spectra via rigid spaces</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">02/08</td>
+    <td class="tg-0pky">William</td>
+    <td class="tg-0pky">Spectral sequences and deformations of homotopy theories I</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">02/15</td>
+    <td class="tg-0pky">William</td>
+    <td class="tg-0pky">Spectral sequences and deformations of homotopy theories II</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">02/22</td>
+    <td class="tg-0pky">Brian</td>
+    <td class="tg-0pky">Structure of the Motivic Stable Homotopy Category</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">03/01<br></td>
+    <td class="tg-0pky">Joseph<br></td>
+    <td class="tg-0pky">Generalized Gauge Theory: Where Logic Meets Homotopy Theory</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">03/15</td>
+    <td class="tg-0pky">Tsutomu</td>
+    <td class="tg-0pky">Equivariant motivic orientations</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">03/22</td>
+    <td class="tg-0pky">Timmy</td>
+    <td class="tg-0pky">An introduction to Milnor conjecture</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">03/29</td>
+    <td class="tg-0pky">Liz</td>
+    <td class="tg-0pky">The Telescope Conjecture</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">04/05</td>
+    <td class="tg-0pky">Sam</td>
+    <td class="tg-0pky">Equivariant BPQ and Bicategorical Enrichment</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">04/19</td>
+    <td class="tg-0pky">Abhra</td>
+    <td class="tg-0pky">Topological Modular forms with level structure</td>
+  </tr>
+</tbody>
+</table>
