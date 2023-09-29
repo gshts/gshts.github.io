@@ -4,6 +4,7 @@ tags: past, talks, 2021, fall
 ---
 
 
+<p></p>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -25,32 +26,32 @@ tags: past, talks, 2021, fall
   <tr>
     <td class="tg-0pky">08/30</td>
     <td class="tg-0pky">Heyi</td>
-    <td class="tg-0pky">A p-complete Hopkins-Mahowald Theorem</td>
+    <td class="tg-0pky">A p-complete Hopkins-Mahowald Theorem <br> <br> I will introduce a theory of Thom spectra and orientations in $∞$−categories and give a proof for a p-complete version of the Hopkins−Mahowald Theorem using this higher categorical framework. </td>
   </tr>
   <tr>
     <td class="tg-0pky">10/01</td>
     <td class="tg-0pky">Likun</td>
-    <td class="tg-0pky">On the Lichtenbaum-Quillen conjectures in algebraic K theory<br></td>
+    <td class="tg-0pky">On the Lichtenbaum-Quillen conjectures in algebraic K theory<br> <br> Starting with some motivations and brief expositions on algebraic K theory, I’ll introduce some early important computations of algebraic K theory, including computations of K theory of finite fields and of rings of integers for which I will briefly outline the proofs. Then we’ll move on to K theory with finite coefficients of separably closed fields.  With the motivation of recovering some information of K theory of an arbitrary field from its separable closure, we introduce a few versions of the Lichtenbaum-Quillen conjectures as descent spectrum sequences of etale Cohomology groups. If time permits, I’ll mention relation to motivic Cohomology, a key tool is some “motivic-to-K-theory” spectral sequence.   </td>
   </tr>
   <tr>
     <td class="tg-0pky">10/08</td>
     <td class="tg-0pky">Doron</td>
-    <td class="tg-0pky">Simplicial Localizations and How to Find Them</td>
+    <td class="tg-0pky">Simplicial Localizations and How to Find Them <br> <br> Abstractly defining ∞-categorical localization is easy, but explicitly constructing it is hard. Following a series of papers by Dwyer and Kan, I will describe the construction known as the <i>hammock localization</i> and use it to obtain a clearer picture of some important ∞-categories. </td>
   </tr>
   <tr>
     <td class="tg-0pky">10/15</td>
     <td class="tg-0pky">Sam</td>
-    <td class="tg-0pky">Cellular Homotopy Type Theory: why and how?</td>
+    <td class="tg-0pky">Cellular Homotopy Type Theory: why and how? <br> <br> In this talk we will give some motivations for cellular homotopy type theory following some suggestions from existing work in simplicial homotopy type theory, by first looking at its expected semantics and discussing some applications and related literature. We will then go over a bit of basic machinery that goes into the semantics. Despite the title, we won't actually spend much time on syntax, instead focusing on connections to other work in homotopy theory, algebraic topology, and higher category theory, at least when n=1 i.e. the simplicial case. No prior knowledge of the topics is assumed. </td>
   </tr>
   <tr>
     <td class="tg-0pky">10/22</td>
     <td class="tg-0pky">Timmy</td>
-    <td class="tg-0pky">An introduction to equivariant motivic homotopy theory</td>
+    <td class="tg-0pky">An introduction to equivariant motivic homotopy theory <br> <br> Equivariant motivic homotopy theory is the homotopy theory of motivic spaces and spectra with algebraic group actions. Following [Hoy17], I will introduce both the unstable and stable equivariant motivic homotopy ∞-category. I will also talk about the so called Ambidexterity Theorem which identifies the left and right adjoint of the pullback functor f* up to a suspension. Then I will show how to prove the Atiyah Duality by using the Ambidexterity and some other properties of these functors. [Hoy17] Marc Hoyois, The six operations in equivariant motivic homotopy theory. </td>
   </tr>
   <tr>
     <td class="tg-0pky">10/29</td>
     <td class="tg-0pky">Johnson</td>
-    <td class="tg-0pky">Connections between motivic and classical homotopy theory</td>
+    <td class="tg-0pky">Connections between motivic and classical homotopy theory <br> <br> In the first part of this talk we will motivate the construction of the stable motivic homotopy category over the complex numbers through a non-standard construction of the stable homotopy category. After some comparisons between the motivic and classical theory, we will introduce the Chow t-structure and explain how it relates to some chromatic theory. </td>
   </tr>
   <tr>
     <td class="tg-0pky">11/05</td>
@@ -60,17 +61,17 @@ tags: past, talks, 2021, fall
   <tr>
     <td class="tg-0pky">11/12</td>
     <td class="tg-0pky">Abhra</td>
-    <td class="tg-0pky">∞-categorical Kummer theory</td>
+    <td class="tg-0pky">∞-categorical Kummer theory <br> <br> Kummer theory provides a way of recognizing the isomorphism classes of (certain) Galois extensions of fields containing enough roots of unity. Running a similar machinery for general classical commutative rings leads to the classification of (certain) Galois extensions of the ring which involves the Picard spectrum of the ring. Schlank, et al. have designed a version of this theory that works for nice presentable additive symmetric monoidal ∞-categories which involves the Picard spectrum of this category. I will go over their version of the theory in this talk. </td>
   </tr>
   <tr>
     <td class="tg-0pky">11/19</td>
     <td class="tg-0pky">Connor</td>
-    <td class="tg-0pky">Introduction to the Stolz-Teichner Program</td>
+    <td class="tg-0pky">Introduction to the Stolz-Teichner Program <br> <br> The Stolz-Teichner program is a far-reaching research program that aims to connect QFT to the cohomology of manifolds. Importantly for homotopy theorists, it is expected to provide a cochain model for TMF. In this talk I will sketch some of the broad strokes of the program and describe some of the partial results currently known. </td>
   </tr>
   <tr>
     <td class="tg-0pky">12/03</td>
     <td class="tg-0pky">Liz</td>
-    <td class="tg-0pky">Towards Splitting BP&lt;2&gt;⋀BP&lt;2&gt; at Odd Primes</td>
+    <td class="tg-0pky">Towards Splitting BP&lt;2&gt;⋀BP&lt;2&gt; at Odd Primes <br> <br>  In the 1980s, Mahowald and Kane used Brown−Gitler spectra to construct splittings of bo∧bo and ℓ∧ℓ. These splittings helped make it feasible to do computations using the bo− and ℓ−based Adams spectral sequences. I will discuss progress towards an analogous splitting for BP&lt;2&gt;⋀BP&lt;2&gt at odd primes.</td>
   </tr>
 </tbody>
 </table>
