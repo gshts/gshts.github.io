@@ -26,7 +26,7 @@ tags: past, talks, 2022, fall
   <tr>
     <td class="tg-0pky">09/02<br></td>
     <td class="tg-0pky">Sai</td>
-    <td class="tg-0pky">Picard groups in homotopy theory<br> <br> Picard groups have been classically studied in commutative algebra, algebraic number theory and algebraic geometry. These can be suitably generalised to define Picard groups of 𝔼_∞ ring spectra. However, computing these groups is not very easy. In this talk, I will introduce two main methods to compute Picard groups of 𝔼_∞ ring spectra. </td>
+    <td class="tg-0pky">Picard groups in homotopy theory<br> <br> Picard groups have been classically studied in commutative algebra, algebraic number theory and algebraic geometry. These can be suitably generalised to define Picard groups of 𝔼 ͚ -ring spectra. However, computing these groups is not very easy. In this talk, I will introduce two main methods to compute Picard groups of 𝔼 ͚ -ring spectra. </td>
   </tr>
   <tr>
     <td class="tg-0pky">09/09<br></td>
@@ -62,7 +62,7 @@ tags: past, talks, 2022, fall
   <tr>
     <td class="tg-0pky">10/21</td>
     <td class="tg-0pky">Langwen</td>
-    <td class="tg-0pky">An overview of Lubin-Tate spectra <br> <br> In their 1966 paper, Lubin and Tate studied the deformation theory of 1-dimensional commutative formal groups. They showed that this moduli problem is representable by a certain ring with an associated "universal deformation" formal group law. It turns out that this formal group law is Landweber exact and the associated spectrum has a unique E_∞ multiplication, due to a theorem of Goerss, Hopkins and Miller. I will introduce these spectra and briefly discuss their central role in the local structure of chromatic homotopy theory.</td>
+    <td class="tg-0pky">An overview of Lubin-Tate spectra <br> <br> In their 1966 paper, Lubin and Tate studied the deformation theory of 1-dimensional commutative formal groups. They showed that this moduli problem is representable by a certain ring with an associated "universal deformation" formal group law. It turns out that this formal group law is Landweber exact and the associated spectrum has a unique E ͚ &nbsp;multiplication, due to a theorem of Goerss, Hopkins and Miller. I will introduce these spectra and briefly discuss their central role in the local structure of chromatic homotopy theory.</td>
   </tr>
   <tr>
     <td class="tg-0pky">10/28</td>
@@ -72,7 +72,7 @@ tags: past, talks, 2022, fall
   <tr>
     <td class="tg-0pky">11/04</td>
     <td class="tg-0pky">Timmy<br></td>
-    <td class="tg-0pky">The motivic Adams isomorphism for finite group actions <br> <br> Frank Adams proves the following surprising statement in 1984: For a finite CW complex X with a nice finite group action, the orbit spectrum and the fixed point spectrum of Σ∞X are isomorphic. Lewis, May and Steinberg then generalized Adams’ result to arbitrary spectra in 86. In this talk, I will discuss a motivic analogue of the above results, following the work of Gepner and Heller. The proof is dependent on the existence of the ‘six functors formalism’ but is more than that. I will roughly explain how the proof works and show you some applications of the motivic Adams isomorphism. </td>
+    <td class="tg-0pky">The motivic Adams isomorphism for finite group actions <br> <br> Frank Adams proves the following surprising statement in 1984: For a finite CW complex X with a nice finite group action, the orbit spectrum and the fixed point spectrum of Σ ᪲ X are isomorphic. Lewis, May and Steinberg then generalized Adams’ result to arbitrary spectra in 86. In this talk, I will discuss a motivic analogue of the above results, following the work of Gepner and Heller. The proof is dependent on the existence of the ‘six functors formalism’ but is more than that. I will roughly explain how the proof works and show you some applications of the motivic Adams isomorphism. </td>
   </tr>
   <tr>
     <td class="tg-0pky">11/11</td>

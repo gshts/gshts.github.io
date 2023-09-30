@@ -71,7 +71,7 @@ tags: past, talks, 2021, fall
   <tr>
     <td class="tg-0pky">12/03</td>
     <td class="tg-0pky">Liz</td>
-    <td class="tg-0pky">Towards Splitting BP&lt;2&gt;⋀BP&lt;2&gt; at Odd Primes <br> <br>  In the 1980s, Mahowald and Kane used Brown−Gitler spectra to construct splittings of bo∧bo and ℓ∧ℓ. These splittings helped make it feasible to do computations using the bo− and ℓ−based Adams spectral sequences. I will discuss progress towards an analogous splitting for BP&lt;2&gt;⋀BP&lt;2&gt at odd primes.</td>
+    <td class="tg-0pky">Towards Splitting BP&lt;2&gt;⋀BP&lt;2&gt; at Odd Primes <br> <br>  In the 1980s, Mahowald and Kane used Brown−Gitler spectra to construct splittings of bo∧bo and ℓ∧ℓ. These splittings helped make it feasible to do computations using the bo− and ℓ−based Adams spectral sequences. I will discuss progress towards an analogous splitting for BP&lt;2&gt;⋀BP&lt;2&gt; at odd primes.</td>
   </tr>
 </tbody>
 </table>

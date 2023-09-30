@@ -26,7 +26,7 @@ tags: past, talks, 2021, spring
   <tr>
     <td class="tg-0pky">02/01</td>
     <td class="tg-0pky">Heyi</td>
-    <td class="tg-0pky">Thom spectra via rigid spaces <br> <br> The classical definition of the space GL₁(R) of units, given a ring spectrum R, does not play well with more modern models of spectra. In this talk, we will introduce Ando&mdash;Blumberg&mdash;Gepner&mdash;Hopkins&mdash;Rezk's Thom spectra functor, which builds upon a construction of GL₁(R) as an A_∞-space. If time permits, we will also briefly look at their E_∞-version. </td>
+    <td class="tg-0pky">Thom spectra via rigid spaces <br> <br> The classical definition of the space GL₁(R) of units, given a ring spectrum R, does not play well with more modern models of spectra. In this talk, we will introduce Ando&ndash;Blumberg&ndash;Gepner&ndash;Hopkins&ndash;Rezk's Thom spectra functor, which builds upon a construction of GL₁(R) as an A ͚ -space. If time permits, we will also briefly look at their E ͚ -version. </td>
   </tr>
   <tr>
     <td class="tg-0pky">02/08</td>
@@ -56,7 +56,7 @@ tags: past, talks, 2021, spring
   <tr>
     <td class="tg-0pky">03/22</td>
     <td class="tg-0pky">Timmy</td>
-    <td class="tg-0pky">An introduction to Milnor conjecture <br> <br> Milnor conjecture (1970 by J.Milnor) states that the Milnor K-theory (mod 2) and the Galois/etale cohomology of a field  (char not 2) in mod 2 coefficient are equivalent. In 1996, V.Voevodsky proved Milnor conjecture by using new theories and techniques including motivic cohomology, splitting varieties and cohomology operations. Bloch-Kato conjecture, which generalizes Milnor conjecture to mod l coefficients, was also proved in the following years. In the talk, I will start from the Milnor K-theory and its relation with the quadratic forms. I will also introduce the motivic cohomology and the higher dimensional analogues of Hilbert’s Theorem 90. Then, if time allowed, I’ll talk about the strategy of Voevodsky’s proof on mod 2 Milnor conjecture. </td>
+    <td class="tg-0pky">An introduction to Milnor conjecture <br> <br> Milnor conjecture (1970 by J.Milnor) states that the Milnor K-theory (mod 2) and the Galois/etale cohomology of a field (char not 2) in mod 2 coefficient are equivalent. In 1996, V. Voevodsky proved Milnor conjecture by using new theories and techniques including motivic cohomology, splitting varieties and cohomology operations. Bloch-Kato conjecture, which generalizes Milnor conjecture to mod ℓ coefficients, was also proved in the following years. In the talk, I will start from the Milnor K-theory and its relation with the quadratic forms. I will also introduce the motivic cohomology and the higher dimensional analogues of Hilbert’s Theorem 90. Then, if time allowed, I’ll talk about the strategy of Voevodsky’s proof on mod 2 Milnor conjecture. </td>
   </tr>
   <tr>
     <td class="tg-0pky">03/29</td>
@@ -71,7 +71,7 @@ tags: past, talks, 2021, spring
   <tr>
     <td class="tg-0pky">04/19</td>
     <td class="tg-0pky">Abhra</td>
-    <td class="tg-0pky">Topological Modular forms with level structure <br> <br> Goerss-Hopkins-Miller theorem gives us a way of extracting homotopic information hidden inside the Moduli Stack of Elliptic curves by constructing an ́etale presheaf of E∞-ring spectra. Evaluating the presheaf on some particular Modular curves produces TMF with level structure. This presheaf is not only defined on ́etale sites of the Moduli Stack of Elliptic curves but also on Moduli Stack of generalized Elliptic curves but unfortunately the modular curves in this case are no longer ́etale over this stack. So, the presheaf can no longer be evaluated on these modular curves. But, it turns out that by refining the topology on this stack one can define a presheaf which not only produces the universal object, Tmf , but also produces a functorial family of objects, Tmf with level structures, which are the analogs of TMF with level structures. In this talk I will state this result and try to explain this refinement. </td>
+    <td class="tg-0pky">Topological Modular forms with level structure <br> <br> Goerss-Hopkins-Miller theorem gives us a way of extracting homotopic information hidden inside the Moduli Stack of Elliptic curves by constructing an étale presheaf of E ͚ -ring spectra. Evaluating the presheaf on some particular Modular curves produces TMF with level structure. This presheaf is not only defined on étale sites of the Moduli Stack of Elliptic curves but also on Moduli Stack of generalized Elliptic curves but unfortunately the modular curves in this case are no longer étale over this stack. So, the presheaf can no longer be evaluated on these modular curves. But, it turns out that by refining the topology on this stack one can define a presheaf which not only produces the universal object, Tmf, but also produces a functorial family of objects, Tmf with level structures, which are the analogs of TMF with level structures. In this talk I will state this result and try to explain this refinement. </td>
   </tr>
 </tbody>
 </table>
