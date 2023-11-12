@@ -4,7 +4,7 @@ tags: past, talks, 2020, spring
 ---
 
 
-Warning: this one is very incomplete since all I have are some old emails someone forwarded me to go off of. Everything else was lost during the department's server migration and when the old calendar was discarded.
+Warning: this one is very incomplete. Everything else was lost during the department's server migration and when the old calendar was discarded.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
