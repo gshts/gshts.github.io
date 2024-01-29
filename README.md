@@ -11,4 +11,3 @@ You will need to follow the instructions for installation of Hakyll found [here.
 1c. Copy, paste, & run the following command into the dir where ghcup was installed. `cabal new-install hakyll` Note: This may take some time. 
 You are done with installing. 
 
-testin 1234
